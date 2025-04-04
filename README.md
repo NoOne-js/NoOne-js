@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**NoOne-js/NoOne-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const NoOne = {         
+    aboutMe: "I'm js Developer",
+    language: ["javaScript", "typeScript"], // Node.js         
+    myStack: {             
+        backEnd: {             
+          frameworks: ["Express.js"],                   
+          microServiceTools: ["gRPC", "RabbitMQ", "Rest Api"],
+          realTimeTools: ["socket.io", "webSocket"],
+          DataBases: ["MongoDB🍃", "MySQL", "Redis"],
+          architectures: ["MVC"],
+          API: ["postman"],
+          
+        },         
+        frontEnd: {             
+          web: ["react","vue.Js,"Anglur"],         
+        },         
+        devOps: [],               
+   },    
+   currentFocus: "Node.js Web Development",     
+   funFact: "Bug's and Errors are my best friends" 
+};
