@@ -12,7 +12,7 @@ const NoOne = {
     myStack: {             
         backEnd: {             
           frameworks: ["Express.js", "fastify"],                   
-          microServiceTools: ["gRPC", "RabbitMQ", "Rest Api"],
+          microServiceTools: ["gRPC", "RabbitMQ"],
           realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
           architectures: ["MVC"],
@@ -33,10 +33,7 @@ const NoOne = {
 
 ## Expertise
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    
   <img alt="Fastify" src="https://img.shields.io/static/v1?style=for-the-badge&message=Fastify&color=000000&logo=Fastify&logoColor=FFFFFF&label=" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" />
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
