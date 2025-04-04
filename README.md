@@ -11,7 +11,6 @@ const NoOne = {
           DataBases: ["MongoDB🍃", "MySQL", "Redis"],
           architectures: ["MVC"],
           API: ["postman"],
-          
         },         
         frontEnd: {             
           web: ["react","vue.Js,"Anglur"],         
